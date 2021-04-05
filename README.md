@@ -45,7 +45,7 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 #### 4. Trips by Gender by Weekday per Hour
 
 <p align="left">
-  <img src="resources/trips_by_gender_weekday_per_hour.PNG" width="900"/>
+  <img src="resources/trips_by_gender_weekday_per_hour.PNG" width="800"/>
 </p>
 
 - Majority of Citi Bike users during weekdays between the hours of 7:00 a.m. - 9:00 a.m. and 4:00 p.m. - 6:00 p.m. are male.
@@ -53,7 +53,7 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 #### 5. User Trips by Gender by Weekday
 
 <p align="left">
-  <img src="resources/user_trips_by_gender_weekday.PNG" width="900"/>
+  <img src="resources/user_trips_by_gender_weekday.PNG" height="800"/>
 </p>
 
 - Majority of subscribers are male, with a larger number of trips occuring on Monday, Tuesday, Thurday and Friday.
@@ -74,5 +74,6 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 ## Summary
 
 Recommendations for other visualizations for potential investors:
+
 1. 
 2.
