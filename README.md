@@ -60,20 +60,28 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 
 #### 6. Top Starting Locations
 <p align="left">
-  <img src="resources/top_starting_locations.PNG" width="900"/>
+  <img src="resources/top_starting_locations.PNG" width="800"/>
 </p>
-
-- There is a larger number trips starting the Lower Manhattan area.
 
 #### 7. Top Ending Locations
 <p align="left">
-  <img src="resources/top_ending_locations.PNG" width="900"/>
+  <img src="resources/top_ending_locations.PNG" width="800"/>
 </p>
 
+- There is a larger number trips starting and ending in the Lower Manhattan area.
 
 ## Summary
 
 Recommendations for other visualizations for potential investors:
 
-1. 
-2.
+1. Trips by Age by Gender
+
+<p align="left">
+  <img src="resources/trips_by_age_by_gender.PNG" width="800"/>
+</p>
+
+2. Trips by Usertype by Gender
+
+<p align="left">
+  <img src="resources/trips_by_usertype_by_gender.PNG" width="800"/>
+</p>
