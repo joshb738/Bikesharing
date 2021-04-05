@@ -9,7 +9,7 @@ Analyzing Citi Bike data for August 2019 to be used in the business propopsal fo
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 - Geographical insight on the top starting & top ending locations.
 
-The Tableau story can be viewed [here](https://public.tableau.com/profile/josh.bissessar#!/vizhome/NYCCitibike_16171447740660/Aug2019TripAnalysis)
+**The Tableau story can be viewed [here](https://public.tableau.com/profile/josh.bissessar#!/vizhome/NYCCitibike_16171447740660/Aug2019TripAnalysis)**
 
 ## Resources
 
