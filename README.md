@@ -53,7 +53,7 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 #### 5. User Trips by Gender by Weekday
 
 <p align="left">
-  <img src="resources/user_trips_by_gender_weekday.PNG" height="800"/>
+  <img src="resources/user_trips_by_gender_weekday.PNG" width="800"/>
 </p>
 
 - Majority of subscribers are male, with a larger number of trips occuring on Monday, Tuesday, Thurday and Friday.
