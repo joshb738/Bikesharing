@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyzing Citi Bike data for August 2019 to be used in the business propopsal for the potential bike sharing program in Des Moines. This analysis will be providing details on the following:
+Analyzing Citi Bike data for August 2019 to be used in the business propopsal for the potential bike sharing program in Des Moines, Iowa. This analysis will be providing details on the following:
 
 - How long bikes are checked out for all riders and genders.
 - How many trips are taken by the hour for each day of the week, for all riders and genders.
