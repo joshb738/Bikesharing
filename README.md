@@ -29,7 +29,7 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 #### 2. Checkout Times by Gender
 
 <p align="left">
-  <img src="resources/checkout_times_by_gender.PNG" width="900"/>
+  <img src="resources/checkout_times_by_gender.PNG" width="800"/>
 </p>
 
 - Majority of the users that checkout bikes for under 20 minutes are male.
@@ -37,7 +37,7 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 #### 3. Trips By Weekday per Hour
 
 <p align="left">
-  <img src="Resources/trips_by_weekday_per_hour.PNG" width="900"/>
+  <img src="resources/trips_by_weekday_per_hour.PNG" width="800"/>
 </p>
 
 - Majority of bike trips are taken between 7:00 a.m. - 9:00 a.m. and 4:00 p.m. - 6:00 p.m.
@@ -60,14 +60,14 @@ Software: Tableau Public 2021.1.0, Jupyter Notebook 6.1.4
 
 #### 6. Top Starting Locations
 <p align="left">
-  <img src="Resources/top_starting_locations.PNG" width="900"/>
+  <img src="resources/top_starting_locations.PNG" width="900"/>
 </p>
 
 - There is a larger number trips starting the Lower Manhattan area.
 
 #### 7. Top Ending Locations
 <p align="left">
-  <img src="Resources/top_ending_locations.PNG" width="900"/>
+  <img src="resources/top_ending_locations.PNG" width="900"/>
 </p>
 
 
